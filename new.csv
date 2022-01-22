@@ -1,0 +1,10 @@
+Admission No,Name,Father Name,Class,Section,Category,Date of Adm,Arrears,Fine,Total,Payment,Billing Month
+1,a,dady,6,red,Offr,2020-03-19,16150,200,19350,not_paid,Jun-2020
+2,b,dady,6,red,Offr,2020-03-19,21300,2000,26300,not_paid,Jun-2020
+3,c,dady,6,blue,Offr-retd,2020-03-19,11200,0,13900,not_paid,Jun-2020
+4,d,dady,6,red,Civil,2020-03-19,10900,0,14400,not_paid,Jun-2020
+5,e,dady,6,red,Civil,2020-03-19,16200,0,19700,not_paid,Jun-2020
+100,ehsan,khalid,10,s,JCO/Sldr-retd,2020-03-19,3450,1000,5550,not_paid,jun
+25,df,se,6,red,JCO/Sldr,2020-03-19,9300,0,11800,not_paid,Jun-2020
+2234,sf,zf,1,dfe,JCO/Sldr,2020-03-19,9700,100,12300,not_paid,Jun-2020
+1121,o yes,haha,3,yellow,JCO/Sldr,2020-03-25,0,0,3000,not_paid,JUN-2020
